@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
+  "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 

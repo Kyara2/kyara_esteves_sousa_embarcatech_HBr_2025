@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "/bin/arm-none-eabi-g++")
+set(CMAKE_CXX_COMPILER "/usr/bin/arm-none-eabi-g++")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "10.3.1")
@@ -22,11 +22,11 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "/bin/arm-none-eabi-ar")
-set(CMAKE_CXX_COMPILER_AR "/bin/arm-none-eabi-gcc-ar")
-set(CMAKE_RANLIB "/bin/arm-none-eabi-ranlib")
-set(CMAKE_CXX_COMPILER_RANLIB "/bin/arm-none-eabi-gcc-ranlib")
-set(CMAKE_LINKER "/bin/arm-none-eabi-ld")
+set(CMAKE_AR "/usr/bin/arm-none-eabi-ar")
+set(CMAKE_CXX_COMPILER_AR "/usr/bin/arm-none-eabi-gcc-ar")
+set(CMAKE_RANLIB "/usr/bin/arm-none-eabi-ranlib")
+set(CMAKE_CXX_COMPILER_RANLIB "/usr/bin/arm-none-eabi-gcc-ranlib")
+set(CMAKE_LINKER "/usr/bin/arm-none-eabi-ld")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
 set(CMAKE_CXX_COMPILER_LOADED 1)

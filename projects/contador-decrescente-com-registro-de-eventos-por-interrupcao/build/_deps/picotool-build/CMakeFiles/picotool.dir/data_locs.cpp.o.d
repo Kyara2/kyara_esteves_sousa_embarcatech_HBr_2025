@@ -1,5 +1,5 @@
 CMakeFiles/picotool.dir/data_locs.cpp.o: \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-build/data_locs.cpp \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-build/data_locs.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/vector \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \

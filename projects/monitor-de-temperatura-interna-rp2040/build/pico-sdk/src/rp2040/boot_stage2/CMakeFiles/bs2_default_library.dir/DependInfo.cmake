@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
+  "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 

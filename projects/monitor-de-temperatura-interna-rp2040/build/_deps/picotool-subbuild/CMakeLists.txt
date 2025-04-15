@@ -12,18 +12,18 @@ project(picotool-populate NONE)
 
 # Pass through things we've already detected in the main project to avoid
 # paying the cost of redetecting them again in ExternalProject_Add()
-set(GIT_EXECUTABLE [==[/bin/git]==])
+set(GIT_EXECUTABLE [==[/usr/bin/git]==])
 set(GIT_VERSION_STRING [==[2.34.1]==])
 set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
-  [==[/bin/git;2.34.1]==]
+  [==[/usr/bin/git;2.34.1]==]
 )
 
 
 include(ExternalProject)
 ExternalProject_Add(picotool-populate
-                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/raspberrypi/picotool.git" "GIT_TAG" "develop" "GIT_PROGRESS" "true"
-                    SOURCE_DIR          "/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src"
-                    BINARY_DIR          "/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build"
+                     "GIT_REPOSITORY" "https://github.com/raspberrypi/picotool.git" "GIT_TAG" "develop"
+                    SOURCE_DIR          "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src"
+                    BINARY_DIR          "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

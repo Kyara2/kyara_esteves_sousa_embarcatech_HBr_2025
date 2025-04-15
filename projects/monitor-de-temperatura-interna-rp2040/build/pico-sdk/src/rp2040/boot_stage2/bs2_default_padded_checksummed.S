@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

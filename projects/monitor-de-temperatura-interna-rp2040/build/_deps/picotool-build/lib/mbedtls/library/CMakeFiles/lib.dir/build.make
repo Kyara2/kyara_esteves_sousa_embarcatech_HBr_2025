@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src
+CMAKE_SOURCE_DIR = /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build
+CMAKE_BINARY_DIR = /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build
 
 # Utility rule file for lib.
 
@@ -76,10 +76,10 @@ lib/mbedtls/library/CMakeFiles/lib.dir/build: lib
 .PHONY : lib/mbedtls/library/CMakeFiles/lib.dir/build
 
 lib/mbedtls/library/CMakeFiles/lib.dir/clean:
-	cd /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library && $(CMAKE_COMMAND) -P CMakeFiles/lib.dir/cmake_clean.cmake
+	cd /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library && $(CMAKE_COMMAND) -P CMakeFiles/lib.dir/cmake_clean.cmake
 .PHONY : lib/mbedtls/library/CMakeFiles/lib.dir/clean
 
 lib/mbedtls/library/CMakeFiles/lib.dir/depend:
-	cd /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src /home/pico-sdk/lib/mbedtls/library /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library/CMakeFiles/lib.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src /home/kyara/pico-sdk/lib/mbedtls/library /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library/CMakeFiles/lib.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lib/mbedtls/library/CMakeFiles/lib.dir/depend
 

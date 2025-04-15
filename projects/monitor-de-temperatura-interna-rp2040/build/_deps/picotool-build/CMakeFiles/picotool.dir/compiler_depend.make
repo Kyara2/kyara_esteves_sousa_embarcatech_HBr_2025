@@ -161,9 +161,9 @@ CMakeFiles/picotool.dir/data_locs.cpp.o: data_locs.cpp \
   /usr/include/c++/11/bits/charconv.h \
   /usr/include/c++/11/bits/basic_string.tcc
 
-CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.cpp \
+CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.cpp \
   /usr/include/stdc-predef.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.h \
   /usr/include/c++/11/string \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -342,7 +342,7 @@ CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: /home/daltro/Codes/kyara/
   /usr/include/c++/11/bits/locale_facets.tcc \
   /usr/include/c++/11/bits/basic_ios.tcc \
   /usr/include/c++/11/bits/ostream.tcc \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
   /usr/include/c++/11/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
@@ -352,9 +352,9 @@ CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: /home/daltro/Codes/kyara/
   /usr/include/inttypes.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h
 
-CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
+CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
   /usr/include/stdc-predef.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h \
   /usr/include/stdlib.h \
   /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
   /usr/include/features.h \
@@ -426,9 +426,9 @@ CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: /home/daltro/Codes/kyara/moni
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h
 
-CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/main.cpp \
+CMakeFiles/picotool.dir/main.cpp.o: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/main.cpp \
   /usr/include/stdc-predef.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/cli.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/cli.h \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -656,7 +656,7 @@ CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperat
   /usr/include/c++/11/sstream \
   /usr/include/c++/11/bits/sstream.tcc \
   /usr/include/c++/11/limits \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/clipp/clipp.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/clipp/clipp.h \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
@@ -734,21 +734,21 @@ CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperat
   /usr/include/c++/11/cstdarg \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/bits/quoted_string.h \
-  /home/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
-  /home/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
-  /home/pico-sdk/src/host/pico_platform/include/pico/platform.h \
-  /home/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+  /home/kyara/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+  /home/kyara/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+  /home/kyara/pico-sdk/src/host/pico_platform/include/pico/platform.h \
+  /home/kyara/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
-  /home/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
-  /home/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/bintool.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
+  /home/kyara/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
+  /home/kyara/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/bintool.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
   /usr/include/c++/11/stdlib.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
   /usr/include/limits.h \
@@ -758,38 +758,38 @@ CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperat
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /home/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf_file.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf_file.h \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/metadata.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
-  /home/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
-  /home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
-  /home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
-  /home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
-  /home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
-  /home/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
-  /home/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/metadata.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
+  /home/kyara/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
+  /home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+  /home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+  /home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+  /home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+  /home/kyara/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
+  /home/kyara/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
   /usr/include/c++/11/cstddef \
   /usr/include/c++/11/forward_list \
   /usr/include/c++/11/bits/forward_list.h \
@@ -821,8 +821,8 @@ CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperat
   /usr/include/c++/11/bits/mask_array.h \
   /usr/include/c++/11/bits/indirect_array.h \
   /usr/include/c++/11/version \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/errors/errors.h \
-  /home/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/errors/errors.h \
+  /home/kyara/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
   /usr/include/x86_64-linux-gnu/sys/ioctl.h \
   /usr/include/x86_64-linux-gnu/bits/ioctls.h \
   /usr/include/x86_64-linux-gnu/asm/ioctls.h \
@@ -833,7 +833,7 @@ CMakeFiles/picotool.dir/main.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperat
   /usr/include/x86_64-linux-gnu/bits/ioctl-types.h \
   /usr/include/x86_64-linux-gnu/sys/ttydefaults.h
 
-CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/no_otp.cpp \
+CMakeFiles/picotool.dir/no_otp.cpp.o: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/no_otp.cpp \
   /usr/include/stdc-predef.h \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -936,7 +936,7 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
   /usr/include/c++/11/bits/invoke.h \
   /usr/include/c++/11/bits/stl_multimap.h \
   /usr/include/c++/11/bits/erase_if.h \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h \
   /usr/include/c++/11/string \
   /usr/include/c++/11/bits/stringfwd.h \
   /usr/include/c++/11/bits/char_traits.h \
@@ -1013,7 +1013,7 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
   /usr/include/c++/11/bits/stl_vector.h \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
-  /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
+  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
   /usr/include/c++/11/cstddef \
   /usr/include/c++/11/functional \
   /usr/include/c++/11/bits/refwrap.h \
@@ -1118,13 +1118,11 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/asm-generic/ioctl.h:
 
-/usr/include/asm-generic/ioctls.h:
-
 /usr/include/x86_64-linux-gnu/asm/ioctls.h:
 
-/home/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h:
+/home/kyara/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/errors/errors.h:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/errors/errors.h:
 
 /usr/include/c++/11/version:
 
@@ -1142,33 +1140,35 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
+/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
 /usr/include/c++/11/valarray:
 
 /usr/include/c++/11/bits/unordered_map.h:
 
-/usr/include/c++/11/bits/hashtable_policy.h:
-
 /usr/include/c++/11/bits/hashtable.h:
 
 /usr/include/c++/11/unordered_map:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h:
+/home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h:
 
-/home/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h:
+/home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
 
-/home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h:
+/home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h:
 
-/usr/include/c++/11/bits/mask_array.h:
+/usr/include/asm-generic/ioctls.h:
 
-/home/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h:
+/home/kyara/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf2uf2/elf2uf2.h:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/metadata.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/no_otp.cpp:
 
 /usr/include/c++/11/bits/fstream.tcc:
 
@@ -1176,19 +1176,21 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/c++/11/fstream:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf_file.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
+/usr/include/c++/11/bits/mask_array.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
+
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
@@ -1200,27 +1202,25 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h:
+/usr/include/c++/11/bits/hashtable_policy.h:
 
-/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
 
-/home/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h:
+/home/kyara/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
+/home/kyara/pico-sdk/src/host/pico_platform/include/pico/platform.h:
 
-/home/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h:
+/home/kyara/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h:
-
-/home/pico-sdk/src/host/pico_platform/include/pico/platform.h:
-
-/home/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
+/home/kyara/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
 
 /usr/include/c++/11/bits/stl_multiset.h:
 
 /usr/include/c++/11/bits/gslice_array.h:
+
+/home/kyara/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h:
 
 /usr/include/c++/11/bits/stl_set.h:
 
@@ -1250,11 +1250,15 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/messages_members.h:
 
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf2uf2/elf2uf2.h:
+
 /usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h:
 
 /usr/include/c++/11/ctime:
 
 /usr/include/c++/11/bits/locale_facets_nonio.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/elf_file.h:
 
 /usr/include/c++/11/bitset:
 
@@ -1270,8 +1274,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/bits/getopt_core.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/no_otp.cpp:
-
 /usr/include/x86_64-linux-gnu/bits/confname.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix_opt.h:
@@ -1281,6 +1283,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 /usr/include/x86_64-linux-gnu/sys/ucontext.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/stack_t.h:
+
+/home/kyara/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h:
 
 /usr/include/x86_64-linux-gnu/bits/sigcontext.h:
 
@@ -1298,6 +1302,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/bits/siginfo-arch.h:
 
+/home/kyara/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h:
+
 /usr/include/x86_64-linux-gnu/bits/ss_flags.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h:
@@ -1312,11 +1318,11 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/c++/11/cstdlib:
 
+/home/kyara/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h:
+
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
 /usr/include/c++/11/bit:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/bintool.h:
 
 /usr/include/assert.h:
 
@@ -1333,8 +1339,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 /usr/include/c++/11/bits/quoted_string.h:
 
 /usr/include/x86_64-linux-gnu/bits/signum-generic.h:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/clipp/clipp.h:
 
 /usr/include/c++/11/ext/atomicity.h:
 
@@ -1356,8 +1360,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/bits/endian.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
-
 /usr/include/c++/11/bits/cxxabi_forced.h:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
@@ -1368,7 +1370,11 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
+
 /usr/include/c++/11/bits/localefwd.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.h:
 
 /usr/include/c++/11/regex:
 
@@ -1381,8 +1387,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
-
-/home/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
 
 /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
 
@@ -1401,6 +1405,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
 /usr/include/c++/11/iostream:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h:
 
 /usr/include/c++/11/bits/deque.tcc:
 
@@ -1450,8 +1456,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /home/daltro/Codes/kyara/monitor-de-temper
 
 /usr/include/linux/limits.h:
 
-/home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
-
 /usr/include/c++/11/bits/memoryfwd.h:
 
 /usr/include/c++/11/bits/stl_function.h:
@@ -1477,8 +1481,6 @@ data_locs.cpp:
 /usr/include/c++/11/clocale:
 
 /usr/include/c++/11/bits/ostream.tcc:
-
-/home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
@@ -1526,8 +1528,6 @@ data_locs.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
-/home/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h:
-
 /usr/include/c++/11/streambuf:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
@@ -1568,8 +1568,6 @@ data_locs.cpp:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/metadata.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
 /usr/include/c++/11/debug/assertions.h:
@@ -1596,8 +1594,6 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/exception_ptr.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/main.cpp:
-
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
@@ -1611,8 +1607,6 @@ data_locs.cpp:
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h:
 
 /usr/include/stdc-predef.h:
 
@@ -1636,13 +1630,9 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/stream_iterator.h:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/mbedtls_wrapper.h:
-
 /usr/include/c++/11/bits/cpp_type_traits.h:
 
 /usr/include/c++/11/bits/stl_iterator_base_funcs.h:
-
-/home/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
 
 /usr/include/c++/11/bits/stl_uninitialized.h:
 
@@ -1655,6 +1645,8 @@ data_locs.cpp:
 /usr/include/c++/11/cstddef:
 
 /usr/include/c++/11/bits/stl_vector.h:
+
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
 
 /usr/include/c++/11/system_error:
 
@@ -1676,8 +1668,6 @@ data_locs.cpp:
 
 /usr/include/c++/11/map:
 
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
 /usr/include/c++/11/string:
@@ -1685,6 +1675,10 @@ data_locs.cpp:
 /usr/include/c++/11/bits/ostream_insert.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/otp.h:
+
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
 
 /usr/include/wchar.h:
 
@@ -1704,13 +1698,19 @@ data_locs.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h:
+
 /usr/include/c++/11/bits/stl_construct.h:
 
 /usr/include/c++/11/bits/shared_ptr.h:
 
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
 
 /usr/include/c++/11/cwchar:
 
@@ -1728,6 +1728,8 @@ data_locs.cpp:
 
 /usr/include/c++/11/cwctype:
 
+/usr/include/c++/11/cstdio:
+
 /usr/include/stdio.h:
 
 /usr/include/c++/11/bits/regex_constants.h:
@@ -1744,6 +1746,8 @@ data_locs.cpp:
 
 /usr/include/c++/11/cerrno:
 
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/elf/addresses.h:
+
 /usr/include/errno.h:
 
 /usr/include/sched.h:
@@ -1756,27 +1760,17 @@ data_locs.cpp:
 
 /usr/include/asm-generic/errno.h:
 
-/home/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h:
-
-/usr/include/c++/11/cstdio:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.cpp:
-
 /usr/include/x86_64-linux-gnu/bits/types/error_t.h:
 
 /usr/include/c++/11/bits/charconv.h:
 
 /usr/include/c++/11/bits/basic_string.tcc:
 
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.h:
-
-/usr/include/math.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
-
-/usr/include/c++/11/cstring:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami++.cpp:
 
 /usr/include/c++/11/ostream:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/bintool.h:
 
 /usr/include/c++/11/bits/unique_ptr.h:
 
@@ -1791,8 +1785,6 @@ data_locs.cpp:
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
 /usr/include/c++/11/typeinfo:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/cli.h:
 
 /usr/include/c++/11/bits/nested_exception.h:
 
@@ -1836,8 +1828,6 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/enable_special_members.h:
 
-/home/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h:
-
 /usr/include/c++/11/bits/codecvt.h:
 
 /usr/include/c++/11/bits/basic_ios.tcc:
@@ -1845,8 +1835,6 @@ data_locs.cpp:
 /usr/include/c++/11/bits/indirect_array.h:
 
 /usr/include/c++/11/cinttypes:
-
-/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c:
 
 /usr/include/c++/11/stdlib.h:
 
@@ -1856,7 +1844,21 @@ data_locs.cpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
 
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/bintool/mbedtls_wrapper.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/main.cpp:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/c++/11/cstring:
+
 /usr/include/limits.h:
+
+/home/kyara/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h:
 
 /usr/include/c++/11/bits/regex_compiler.tcc:
 
@@ -1864,15 +1866,17 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/stl_algo.h:
 
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
+
 /usr/include/c++/11/cassert:
 
 /usr/include/c++/11/bits/algorithmfwd.h:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
-
 /usr/include/c++/11/bits/std_abs.h:
 
 /usr/include/c++/11/bits/stl_heap.h:
+
+/home/kyara/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
 /usr/include/c++/11/array:
 
@@ -1898,6 +1902,8 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/regex.h:
 
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c:
+
 /usr/include/c++/11/bits/shared_ptr_atomic.h:
 
 /usr/include/c++/11/istream:
@@ -1910,19 +1916,13 @@ data_locs.cpp:
 
 /usr/include/c++/11/bits/istream.tcc:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
-
-/home/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
-
-/home/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
-
 /usr/include/c++/11/sstream:
-
-/home/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
 /usr/include/c++/11/limits:
 
-/home/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/cli.h:
+
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/clipp/clipp.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 

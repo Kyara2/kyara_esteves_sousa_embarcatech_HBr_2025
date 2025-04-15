@@ -1,4 +1,4 @@
-# Install script for directory: /home/pico-sdk
+# Install script for directory: /home/kyara/pico-sdk
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,21 +34,21 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/bin/arm-none-eabi-objdump")
+  set(CMAKE_OBJDUMP "/usr/bin/arm-none-eabi-objdump")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/tools/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/docs/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 

@@ -1,4 +1,4 @@
-prefix=/home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps
+prefix=/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps
 includedir=${prefix}/include
 libdir=${prefix}/lib
 

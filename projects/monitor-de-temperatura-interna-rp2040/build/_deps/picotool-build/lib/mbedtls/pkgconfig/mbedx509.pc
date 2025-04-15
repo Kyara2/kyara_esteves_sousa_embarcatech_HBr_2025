@@ -1,4 +1,4 @@
-prefix=/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps
+prefix=/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps
 includedir=${prefix}/include
 libdir=${prefix}/lib
 

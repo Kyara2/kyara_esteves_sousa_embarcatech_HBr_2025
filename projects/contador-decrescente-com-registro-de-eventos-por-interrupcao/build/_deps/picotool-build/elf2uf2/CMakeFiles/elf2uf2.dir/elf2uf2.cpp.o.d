@@ -1,5 +1,5 @@
 elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf2uf2/elf2uf2.cpp \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf2uf2/elf2uf2.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/cstdio \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -153,7 +153,7 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h /usr/include/c++/11/cinttypes \
  /usr/include/c++/11/cstdint /usr/include/inttypes.h \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/char_traits.h \
  /usr/include/c++/11/bits/localefwd.h \
@@ -190,11 +190,11 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc \
- /home/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+ /home/kyara/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
  /usr/include/assert.h \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/elf_file.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/elf_file.h \
  /usr/include/c++/11/iostream \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/elf.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/elf.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/addresses.h \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/errors/errors.h
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/elf/addresses.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/errors/errors.h

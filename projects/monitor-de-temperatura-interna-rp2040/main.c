@@ -67,11 +67,11 @@ int main() {
 
     sprintf(temperatura_formato_string, "%-3d", temperatura);
     char *texto_para_oled[] = {
-      "temperatura: ",
+      "temp no chip",
       temperatura_formato_string
       };
 
-
+    // atualiza display oled
     int y = 0;
     for (uint i = 0; i < count_of(texto_para_oled); i++)
     {

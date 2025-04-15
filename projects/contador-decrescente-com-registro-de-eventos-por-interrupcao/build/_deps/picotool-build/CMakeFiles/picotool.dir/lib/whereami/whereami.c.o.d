@@ -1,7 +1,7 @@
 CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/lib/whereami/whereami.c \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/lib/whereami/whereami.c \
  /usr/include/stdc-predef.h \
- /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/lib/whereami/whereami.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/_deps/picotool-src/lib/whereami/whereami.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

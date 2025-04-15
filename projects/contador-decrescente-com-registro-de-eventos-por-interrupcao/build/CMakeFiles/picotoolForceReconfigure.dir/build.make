@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao
+CMAKE_SOURCE_DIR = /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build
+CMAKE_BINARY_DIR = /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build
 
 # Utility rule file for picotoolForceReconfigure.
 
@@ -67,7 +67,7 @@ include CMakeFiles/picotoolForceReconfigure.dir/compiler_depend.make
 include CMakeFiles/picotoolForceReconfigure.dir/progress.make
 
 CMakeFiles/picotoolForceReconfigure:
-	/usr/bin/cmake -E touch_nocreate /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/CMakeLists.txt
+	/usr/bin/cmake -E touch_nocreate /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/CMakeLists.txt
 
 picotoolForceReconfigure: CMakeFiles/picotoolForceReconfigure
 picotoolForceReconfigure: CMakeFiles/picotoolForceReconfigure.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/picotoolForceReconfigure.dir/clean:
 .PHONY : CMakeFiles/picotoolForceReconfigure.dir/clean
 
 CMakeFiles/picotoolForceReconfigure.dir/depend:
-	cd /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build /home/daltro/Codes/kyara/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/CMakeFiles/picotoolForceReconfigure.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/contador-decrescente-com-registro-de-eventos-por-interrupcao/build/CMakeFiles/picotoolForceReconfigure.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/picotoolForceReconfigure.dir/depend
 

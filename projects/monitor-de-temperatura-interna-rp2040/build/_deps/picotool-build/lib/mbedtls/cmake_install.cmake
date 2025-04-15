@@ -1,8 +1,8 @@
-# Install script for directory: /home/pico-sdk/lib/mbedtls
+# Install script for directory: /home/kyara/pico-sdk/lib/mbedtls
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,15 +39,15 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/bin/objdump")
+  set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/include/cmake_install.cmake")
-  include("/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/3rdparty/cmake_install.cmake")
-  include("/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library/cmake_install.cmake")
-  include("/home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/pkgconfig/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/include/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/3rdparty/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/library/cmake_install.cmake")
+  include("/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-build/lib/mbedtls/pkgconfig/cmake_install.cmake")
 
 endif()
 

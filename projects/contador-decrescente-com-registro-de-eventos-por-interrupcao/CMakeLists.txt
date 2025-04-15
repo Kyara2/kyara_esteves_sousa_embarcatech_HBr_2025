@@ -18,13 +18,12 @@ pico_enable_stdio_uart(main 0)
 pico_enable_stdio_usb(main 1)
 
 # Adiciona as biblioteca necessarias
-target_link_libraries(main pico_stdlib hardware_i2c hardware_adc)
+target_link_libraries(main pico_stdlib hardware_i2c hardware_adc pico_time hardware_timer)
 
 # Cria o arquivo *.uf2 alem do *.elf
 pico_add_extra_outputs(main)
 
 	
-
 
 
 

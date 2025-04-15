@@ -1,7 +1,7 @@
 CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: \
- /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.c \
  /usr/include/stdc-predef.h \
- /home/daltro/Codes/kyara/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h \
+ /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/_deps/picotool-src/lib/whereami/whereami.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
