@@ -1,8 +1,8 @@
-# Install script for directory: /home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-src/picoboot_connection
+# Install script for directory: /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-src/picoboot_connection
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,6 +39,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/bin/objdump")
+  set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 

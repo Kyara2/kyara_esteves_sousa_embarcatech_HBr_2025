@@ -13,7 +13,7 @@ CMakeFiles/main.dir/home/kyara/pico-sdk/src/rp2040/pico_platform/platform.c.o: \
  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/generated/pico_base/pico/version.h \
  /home/kyara/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
  /home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/monitor-de-temperatura-interna-rp2040/build/generated/pico_base/pico/config_autogen.h \
- /home/kyara/pico-sdk/src/boards/include/boards/pico_w.h \
+ /home/kyara/pico-sdk/src/boards/include/boards/pico.h \
  /home/kyara/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/kyara/pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
  /home/kyara/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \

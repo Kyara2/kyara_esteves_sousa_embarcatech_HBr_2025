@@ -1,2 +1,2 @@
-/bin/ar qc libbintool.a CMakeFiles/bintool.dir/bintool.cpp.o CMakeFiles/bintool.dir/mbedtls_wrapper.c.o
-/bin/ranlib libbintool.a
+/usr/bin/ar qc libbintool.a CMakeFiles/bintool.dir/bintool.cpp.o CMakeFiles/bintool.dir/mbedtls_wrapper.c.o
+/usr/bin/ranlib libbintool.a

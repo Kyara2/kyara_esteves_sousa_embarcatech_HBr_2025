@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-src/errors/errors.cpp" "errors/CMakeFiles/errors.dir/errors.cpp.o" "gcc" "errors/CMakeFiles/errors.dir/errors.cpp.o.d"
+  "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-src/errors/errors.cpp" "errors/CMakeFiles/errors.dir/errors.cpp.o" "gcc" "errors/CMakeFiles/errors.dir/errors.cpp.o.d"
   )
 
 # Targets to which this target links.

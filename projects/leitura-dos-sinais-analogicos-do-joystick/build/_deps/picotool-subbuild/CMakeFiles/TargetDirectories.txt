@@ -1,3 +1,3 @@
-/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
-/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
-/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir

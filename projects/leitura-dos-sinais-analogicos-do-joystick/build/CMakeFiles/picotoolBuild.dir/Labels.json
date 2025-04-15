@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild-complete.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/CMakeFiles/picotoolBuild-complete.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
 		},
 		{
-			"file" : "/home/daltro/Codes/kyara/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/leitura-dos-sinais-analogicos-do-joystick/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
 		}
 	],
 	"target" : 
