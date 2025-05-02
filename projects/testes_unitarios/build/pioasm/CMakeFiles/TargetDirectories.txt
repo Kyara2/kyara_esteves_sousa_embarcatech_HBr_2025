@@ -1,0 +1,7 @@
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/pioasm.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/list_install_components.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/install.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/install/local.dir
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm/CMakeFiles/install/strip.dir

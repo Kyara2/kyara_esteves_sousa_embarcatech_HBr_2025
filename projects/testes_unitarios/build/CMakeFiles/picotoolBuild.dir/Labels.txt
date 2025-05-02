@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild-complete.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

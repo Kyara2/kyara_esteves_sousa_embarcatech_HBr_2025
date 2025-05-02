@@ -1,0 +1,5 @@
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm-install/pioasm/pioasm
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

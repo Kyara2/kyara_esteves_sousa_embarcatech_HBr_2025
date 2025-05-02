@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

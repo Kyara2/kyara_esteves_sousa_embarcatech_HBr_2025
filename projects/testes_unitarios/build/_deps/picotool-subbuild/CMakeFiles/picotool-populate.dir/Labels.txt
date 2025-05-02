@@ -1,0 +1,14 @@
+# Target labels
+ picotool-populate
+# Source files and their labels
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule
+/home/kyara/Documents/kyara_esteves_sousa_embarcatech_HBr_2025/projects/testes_unitarios/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule
